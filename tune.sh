@@ -1,6 +1,6 @@
 
 #LAN
-a=off
+a=on
 que=10
 i=eno2
 
